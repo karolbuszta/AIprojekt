@@ -1,0 +1,164 @@
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\ApplicationInsights.config
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\roslyn\csc.exe
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\roslyn\vbc.exe
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\roslyn\VBCSCompiler.exe
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\SystemRezerwacji.dll.config
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\SystemRezerwacji.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\SystemRezerwacji.pdb
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Antlr3.Runtime.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\EntityFramework.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\EntityFramework.SqlServer.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AI.Web.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AI.WindowsServer.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.ApplicationInsights.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.Google.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Newtonsoft.Json.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Owin.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\System.Web.Helpers.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\System.Web.Mvc.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\System.Web.Optimization.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\System.Web.Razor.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\System.Web.WebPages.Deployment.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\System.Web.WebPages.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\System.Web.WebPages.Razor.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\WebGrease.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AI.Web.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AI.WindowsServer.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.ApplicationInsights.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\System.Web.Helpers.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\System.Web.Mvc.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\System.Web.Optimization.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\System.Web.Razor.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\System.Web.WebPages.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\System.Web.WebPages.Deployment.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\System.Web.WebPages.Razor.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Antlr3.Runtime.pdb
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Newtonsoft.Json.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\EntityFramework.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\EntityFramework.SqlServer.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.Google.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\obj\Debug\SystemRezerwacji.dll
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\obj\Debug\SystemRezerwacji.pdb
+c:\users\dell\documents\visual studio 2015\Projects\SystemRezerwacji\SystemRezerwacji\obj\Debug\SystemRezerwacji.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\ApplicationInsights.config
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\roslyn\csc.exe
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\roslyn\vbc.exe
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\SystemRezerwacji.dll.config
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\SystemRezerwacji.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\SystemRezerwacji.pdb
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Antlr3.Runtime.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\EntityFramework.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AI.Web.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Owin.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\System.Web.Helpers.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\System.Web.Mvc.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\System.Web.Optimization.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\System.Web.Razor.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\System.Web.WebPages.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\WebGrease.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AI.Web.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\System.Web.Helpers.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\System.Web.Mvc.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\System.Web.Optimization.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\System.Web.Razor.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\System.Web.WebPages.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Newtonsoft.Json.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\EntityFramework.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\obj\Debug\SystemRezerwacji.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\obj\Debug\SystemRezerwacji.dll
+C:\Users\Dell\Documents\SystemRezerwacji\SystemRezerwacji\obj\Debug\SystemRezerwacji.pdb

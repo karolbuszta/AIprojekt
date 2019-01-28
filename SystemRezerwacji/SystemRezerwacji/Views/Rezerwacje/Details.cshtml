@@ -1,0 +1,42 @@
+﻿@model SystemRezerwacji.Models.Rezerwacja
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Rezerwacja</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.PolaczenieID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PolaczenieID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PodroznyID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PodroznyID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StatusRezerwacjiId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StatusRezerwacjiId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

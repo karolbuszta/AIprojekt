@@ -1,0 +1,50 @@
+﻿@model SystemRezerwacji.Models.Relacja
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Relacja</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Stacja_poczatkowa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Stacja_poczatkowa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Stacja_koncowa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Stacja_koncowa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Stacja_posrednia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Stacja_posrednia)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Odleglosc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Odleglosc)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

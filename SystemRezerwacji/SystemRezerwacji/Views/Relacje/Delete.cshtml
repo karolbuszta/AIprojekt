@@ -1,0 +1,56 @@
+﻿@model SystemRezerwacji.Models.Relacja
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Relacja</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Stacja_poczatkowa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Stacja_poczatkowa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Stacja_koncowa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Stacja_koncowa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Stacja_posrednia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Stacja_posrednia)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Odleglosc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Odleglosc)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
